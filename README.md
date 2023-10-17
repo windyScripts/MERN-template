@@ -1,0 +1,1 @@
+Template for Mongo-Express-React-Node application.
